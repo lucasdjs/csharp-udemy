@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2IBiXsq5RkISJev/6W4uue9oLF1qdUI0S0hU4MKMERHOGpqq//aqQ77xk7dA2nby3p/AI2H0/psKT7DUzNCOrQ==",
+  "dgSpecHash": "zoHkEm7HdDfFEybhoLf+UCDKAhrsDEgEvZJQfjdakb9SgiV8gn+JFe4tkb087MveBHqSAZ8zt0jEWVja/SJt8Q==",
   "success": true,
-  "projectFilePath": "C:\\Udemy\\19 - Sistema Web com Asp .NET Coe e EF\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+  "projectFilePath": "C:\\Udemys\\19 - Sistema Web com Asp .NET Coe e EF\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
