@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\bin\Debug\net6.0\Ex Lista.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\bin\Debug\net6.0\Ex Lista.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\bin\Debug\net6.0\Ex Lista.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\bin\Debug\net6.0\Ex Lista.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\bin\Debug\net6.0\Ex Lista.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\obj\Debug\net6.0\Ex Lista.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\obj\Debug\net6.0\Ex Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\obj\Debug\net6.0\Ex Lista.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\obj\Debug\net6.0\Ex Lista.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\obj\Debug\net6.0\Ex Lista.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\obj\Debug\net6.0\Ex Lista.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\obj\Debug\net6.0\refint\Ex Lista.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\obj\Debug\net6.0\Ex Lista.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\obj\Debug\net6.0\Ex Lista.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ex Lista\Ex Lista\obj\Debug\net6.0\ref\Ex Lista.dll

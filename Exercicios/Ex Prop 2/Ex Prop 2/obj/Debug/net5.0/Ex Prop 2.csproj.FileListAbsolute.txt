@@ -1,0 +1,16 @@
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\bin\Debug\net5.0\Ex Prop 2.exe
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\bin\Debug\net5.0\Ex Prop 2.deps.json
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\bin\Debug\net5.0\Ex Prop 2.runtimeconfig.json
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\bin\Debug\net5.0\Ex Prop 2.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\bin\Debug\net5.0\Ex Prop 2.dll
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\bin\Debug\net5.0\ref\Ex Prop 2.dll
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\bin\Debug\net5.0\Ex Prop 2.pdb
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\obj\Debug\net5.0\Ex Prop 2.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\obj\Debug\net5.0\Ex Prop 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\obj\Debug\net5.0\Ex Prop 2.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\obj\Debug\net5.0\Ex Prop 2.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\obj\Debug\net5.0\Ex Prop 2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\obj\Debug\net5.0\Ex Prop 2.dll
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\obj\Debug\net5.0\ref\Ex Prop 2.dll
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\obj\Debug\net5.0\Ex Prop 2.pdb
+C:\Users\Lucas\source\repos\Ex Prop 2\Ex Prop 2\obj\Debug\net5.0\Ex Prop 2.genruntimeconfig.cache

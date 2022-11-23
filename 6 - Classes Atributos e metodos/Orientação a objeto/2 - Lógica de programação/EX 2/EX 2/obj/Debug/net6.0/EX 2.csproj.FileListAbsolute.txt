@@ -1,0 +1,14 @@
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\bin\Debug\net6.0\EX 2.exe
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\bin\Debug\net6.0\EX 2.deps.json
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\bin\Debug\net6.0\EX 2.runtimeconfig.json
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\bin\Debug\net6.0\EX 2.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\bin\Debug\net6.0\ref\EX 2.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\bin\Debug\net6.0\EX 2.pdb
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\obj\Debug\net6.0\EX 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\obj\Debug\net6.0\EX 2.AssemblyInfoInputs.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\obj\Debug\net6.0\EX 2.AssemblyInfo.cs
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\obj\Debug\net6.0\EX 2.csproj.CoreCompileInputs.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\obj\Debug\net6.0\EX 2.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\obj\Debug\net6.0\ref\EX 2.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\obj\Debug\net6.0\EX 2.pdb
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2\EX 2\obj\Debug\net6.0\EX 2.genruntimeconfig.cache

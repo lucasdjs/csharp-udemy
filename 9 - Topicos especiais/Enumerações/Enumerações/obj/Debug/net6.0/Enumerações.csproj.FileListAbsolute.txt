@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\bin\Debug\net6.0\Enumerações.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\bin\Debug\net6.0\Enumerações.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\bin\Debug\net6.0\Enumerações.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\bin\Debug\net6.0\Enumerações.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\bin\Debug\net6.0\Enumerações.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\obj\Debug\net6.0\refint\Enumerações.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Enumerações\Enumerações\obj\Debug\net6.0\ref\Enumerações.dll

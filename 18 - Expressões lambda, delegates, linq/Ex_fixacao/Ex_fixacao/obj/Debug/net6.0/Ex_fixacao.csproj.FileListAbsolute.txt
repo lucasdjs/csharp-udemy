@@ -1,0 +1,15 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\bin\Debug\net6.0\Ex_fixacao.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\bin\Debug\net6.0\Ex_fixacao.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\bin\Debug\net6.0\Ex_fixacao.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\bin\Debug\net6.0\Ex_fixacao.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\bin\Debug\net6.0\Ex_fixacao.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\obj\Debug\net6.0\Ex_fixacao.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\obj\Debug\net6.0\Ex_fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\obj\Debug\net6.0\Ex_fixacao.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\obj\Debug\net6.0\Ex_fixacao.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\obj\Debug\net6.0\Ex_fixacao.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\obj\Debug\net6.0\Ex_fixacao.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\obj\Debug\net6.0\refint\Ex_fixacao.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\obj\Debug\net6.0\Ex_fixacao.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\obj\Debug\net6.0\Ex_fixacao.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Ex_fixacao\Ex_fixacao\obj\Debug\net6.0\ref\Ex_fixacao.dll

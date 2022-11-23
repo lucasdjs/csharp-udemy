@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\obj\Debug\net6.0\Devinhouse POO.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\obj\Debug\net6.0\Devinhouse POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\obj\Debug\net6.0\Devinhouse POO.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\obj\Debug\net6.0\Devinhouse POO.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\obj\Debug\net6.0\Devinhouse POO.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\bin\Debug\net6.0\Devinhouse POO.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\bin\Debug\net6.0\Devinhouse POO.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\bin\Debug\net6.0\Devinhouse POO.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\bin\Debug\net6.0\Devinhouse POO.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\bin\Debug\net6.0\Devinhouse POO.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\obj\Debug\net6.0\Devinhouse POO.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\obj\Debug\net6.0\refint\Devinhouse POO.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\obj\Debug\net6.0\Devinhouse POO.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\obj\Debug\net6.0\Devinhouse POO.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Devinhouse POO\Devinhouse POO\obj\Debug\net6.0\ref\Devinhouse POO.dll

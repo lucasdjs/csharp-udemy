@@ -1,0 +1,30 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\bin\Debug\net6.0\EXERCICIO 01 RESOLVIDO.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\bin\Debug\net6.0\EXERCICIO 01 RESOLVIDO.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\bin\Debug\net6.0\EXERCICIO 01 RESOLVIDO.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\bin\Debug\net6.0\EXERCICIO 01 RESOLVIDO.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\bin\Debug\net6.0\EXERCICIO 01 RESOLVIDO.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\refint\EXERCICIO 01 RESOLVIDO.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\ref\EXERCICIO 01 RESOLVIDO.dll
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\bin\Debug\net6.0\EXERCICIO 01 RESOLVIDO.exe
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\bin\Debug\net6.0\EXERCICIO 01 RESOLVIDO.deps.json
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\bin\Debug\net6.0\EXERCICIO 01 RESOLVIDO.runtimeconfig.json
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\bin\Debug\net6.0\EXERCICIO 01 RESOLVIDO.dll
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\bin\Debug\net6.0\EXERCICIO 01 RESOLVIDO.pdb
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.csproj.AssemblyReference.cache
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.AssemblyInfoInputs.cache
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.AssemblyInfo.cs
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.csproj.CoreCompileInputs.cache
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.dll
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\refint\EXERCICIO 01 RESOLVIDO.dll
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.pdb
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\EXERCICIO 01 RESOLVIDO.genruntimeconfig.cache
+C:\Udemy\10 - Enumeração e composição\EXERCICIO 01 RESOLVIDO\EXERCICIO 01 RESOLVIDO\obj\Debug\net6.0\ref\EXERCICIO 01 RESOLVIDO.dll

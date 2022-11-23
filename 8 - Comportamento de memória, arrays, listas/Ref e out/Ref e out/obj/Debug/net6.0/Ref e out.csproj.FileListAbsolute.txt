@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\bin\Debug\net6.0\Ref e out.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\bin\Debug\net6.0\Ref e out.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\bin\Debug\net6.0\Ref e out.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\bin\Debug\net6.0\Ref e out.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\bin\Debug\net6.0\Ref e out.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\obj\Debug\net6.0\Ref e out.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\obj\Debug\net6.0\Ref e out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\obj\Debug\net6.0\Ref e out.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\obj\Debug\net6.0\Ref e out.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\obj\Debug\net6.0\Ref e out.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\obj\Debug\net6.0\Ref e out.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\obj\Debug\net6.0\refint\Ref e out.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\obj\Debug\net6.0\Ref e out.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\obj\Debug\net6.0\Ref e out.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Ref e out\Ref e out\obj\Debug\net6.0\ref\Ref e out.dll

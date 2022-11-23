@@ -1,0 +1,7 @@
+﻿"WHILE EX 1.exe" (CoreCLR: DefaultDomain): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Private.CoreLib.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"WHILE EX 1.exe" (CoreCLR: clrhost): Carregado "C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\bin\Debug\net5.0\WHILE EX 1.dll". Símbolos carregados.
+"WHILE EX 1.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Runtime.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"WHILE EX 1.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Console.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"WHILE EX 1.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Threading.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"WHILE EX 1.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Text.Encoding.Extensions.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+O programa "[10672] WHILE EX 1.exe" foi fechado com o código 0 (0x0).

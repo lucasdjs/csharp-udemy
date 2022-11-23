@@ -1,0 +1,16 @@
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\obj\Debug\net5.0\VETORES EX 3.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\obj\Debug\net5.0\VETORES EX 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\obj\Debug\net5.0\VETORES EX 3.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\obj\Debug\net5.0\VETORES EX 3.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\obj\Debug\net5.0\VETORES EX 3.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\bin\Debug\net5.0\VETORES EX 3.exe
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\bin\Debug\net5.0\VETORES EX 3.deps.json
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\bin\Debug\net5.0\VETORES EX 3.runtimeconfig.json
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\bin\Debug\net5.0\VETORES EX 3.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\bin\Debug\net5.0\VETORES EX 3.dll
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\bin\Debug\net5.0\ref\VETORES EX 3.dll
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\bin\Debug\net5.0\VETORES EX 3.pdb
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\obj\Debug\net5.0\VETORES EX 3.dll
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\obj\Debug\net5.0\ref\VETORES EX 3.dll
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\obj\Debug\net5.0\VETORES EX 3.pdb
+C:\Users\Lucas\source\repos\VETORES EX 3\VETORES EX 3\obj\Debug\net5.0\VETORES EX 3.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\obj\Debug\net6.0\Exercicio resolvido.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\obj\Debug\net6.0\Exercicio resolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\obj\Debug\net6.0\Exercicio resolvido.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\obj\Debug\net6.0\Exercicio resolvido.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\obj\Debug\net6.0\Exercicio resolvido.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\bin\Debug\net6.0\Exercicio resolvido.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\bin\Debug\net6.0\Exercicio resolvido.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\bin\Debug\net6.0\Exercicio resolvido.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\bin\Debug\net6.0\Exercicio resolvido.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\bin\Debug\net6.0\Exercicio resolvido.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\obj\Debug\net6.0\Exercicio resolvido.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\obj\Debug\net6.0\refint\Exercicio resolvido.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\obj\Debug\net6.0\Exercicio resolvido.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\obj\Debug\net6.0\Exercicio resolvido.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Exercicio resolvido\Exercicio resolvido\obj\Debug\net6.0\ref\Exercicio resolvido.dll

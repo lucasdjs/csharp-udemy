@@ -1,0 +1,7 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: Ex 1, Configuração: Debug Any CPU ------
+1>D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\Ex 1\Ex 1\Program.cs(1,19,1,37): warning CS8604: Possível argumento de referência nula para o parâmetro 's' em 'int int.Parse(string s)'.
+1>D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\Ex 1\Ex 1\Program.cs(2,19,2,37): warning CS8604: Possível argumento de referência nula para o parâmetro 's' em 'int int.Parse(string s)'.
+1>Ex 1 -> D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\Ex 1\Ex 1\bin\Debug\net6.0\Ex 1.dll
+1>Projeto de compilação pronto "Ex 1.csproj".
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========

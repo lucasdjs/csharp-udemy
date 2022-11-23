@@ -1,0 +1,15 @@
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\bin\Debug\net6.0\Operadores comparativos.exe
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\bin\Debug\net6.0\Operadores comparativos.deps.json
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\bin\Debug\net6.0\Operadores comparativos.runtimeconfig.json
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\bin\Debug\net6.0\Operadores comparativos.dll
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\bin\Debug\net6.0\Operadores comparativos.pdb
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\obj\Debug\net6.0\Operadores comparativos.csproj.AssemblyReference.cache
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\obj\Debug\net6.0\Operadores comparativos.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\obj\Debug\net6.0\Operadores comparativos.AssemblyInfoInputs.cache
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\obj\Debug\net6.0\Operadores comparativos.AssemblyInfo.cs
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\obj\Debug\net6.0\Operadores comparativos.csproj.CoreCompileInputs.cache
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\obj\Debug\net6.0\Operadores comparativos.dll
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\obj\Debug\net6.0\refint\Operadores comparativos.dll
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\obj\Debug\net6.0\Operadores comparativos.pdb
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\obj\Debug\net6.0\Operadores comparativos.genruntimeconfig.cache
+D:\lucas\Curso C#\csharp\Operadores comparativos\Operadores comparativos\obj\Debug\net6.0\ref\Operadores comparativos.dll

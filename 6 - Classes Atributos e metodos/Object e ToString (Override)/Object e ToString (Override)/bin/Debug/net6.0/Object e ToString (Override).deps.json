@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Object e ToString (Override)/1.0.0": {
+        "runtime": {
+          "Object e ToString (Override).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Object e ToString (Override)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

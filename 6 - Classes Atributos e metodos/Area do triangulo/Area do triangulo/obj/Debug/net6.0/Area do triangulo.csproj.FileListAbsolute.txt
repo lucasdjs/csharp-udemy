@@ -1,0 +1,15 @@
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\bin\Debug\net6.0\Area do triangulo.exe
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\bin\Debug\net6.0\Area do triangulo.deps.json
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\bin\Debug\net6.0\Area do triangulo.runtimeconfig.json
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\bin\Debug\net6.0\Area do triangulo.dll
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\bin\Debug\net6.0\Area do triangulo.pdb
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\obj\Debug\net6.0\Area do triangulo.csproj.AssemblyReference.cache
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\obj\Debug\net6.0\Area do triangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\obj\Debug\net6.0\Area do triangulo.AssemblyInfoInputs.cache
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\obj\Debug\net6.0\Area do triangulo.AssemblyInfo.cs
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\obj\Debug\net6.0\Area do triangulo.csproj.CoreCompileInputs.cache
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\obj\Debug\net6.0\Area do triangulo.dll
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\obj\Debug\net6.0\refint\Area do triangulo.dll
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\obj\Debug\net6.0\Area do triangulo.pdb
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\obj\Debug\net6.0\Area do triangulo.genruntimeconfig.cache
+D:\lucas\Curso C#\csharp\Area do triangulo\Area do triangulo\obj\Debug\net6.0\ref\Area do triangulo.dll

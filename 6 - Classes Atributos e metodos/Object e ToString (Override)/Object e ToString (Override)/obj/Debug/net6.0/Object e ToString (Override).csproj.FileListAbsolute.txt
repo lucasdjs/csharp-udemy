@@ -1,0 +1,15 @@
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\obj\Debug\net6.0\Object e ToString (Override).csproj.AssemblyReference.cache
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\obj\Debug\net6.0\Object e ToString (Override).GeneratedMSBuildEditorConfig.editorconfig
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\obj\Debug\net6.0\Object e ToString (Override).AssemblyInfoInputs.cache
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\obj\Debug\net6.0\Object e ToString (Override).AssemblyInfo.cs
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\obj\Debug\net6.0\Object e ToString (Override).csproj.CoreCompileInputs.cache
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\bin\Debug\net6.0\Object e ToString (Override).exe
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\bin\Debug\net6.0\Object e ToString (Override).deps.json
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\bin\Debug\net6.0\Object e ToString (Override).runtimeconfig.json
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\bin\Debug\net6.0\Object e ToString (Override).dll
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\bin\Debug\net6.0\Object e ToString (Override).pdb
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\obj\Debug\net6.0\Object e ToString (Override).dll
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\obj\Debug\net6.0\refint\Object e ToString (Override).dll
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\obj\Debug\net6.0\Object e ToString (Override).pdb
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\obj\Debug\net6.0\Object e ToString (Override).genruntimeconfig.cache
+D:\lucas\Curso C#\csharp\Object e ToString (Override)\Object e ToString (Override)\obj\Debug\net6.0\ref\Object e ToString (Override).dll

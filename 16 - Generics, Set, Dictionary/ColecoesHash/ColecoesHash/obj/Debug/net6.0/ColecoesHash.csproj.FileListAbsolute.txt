@@ -1,0 +1,15 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\bin\Debug\net6.0\ColecoesHash.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\bin\Debug\net6.0\ColecoesHash.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\bin\Debug\net6.0\ColecoesHash.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\bin\Debug\net6.0\ColecoesHash.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\bin\Debug\net6.0\ColecoesHash.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\obj\Debug\net6.0\ColecoesHash.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\obj\Debug\net6.0\ColecoesHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\obj\Debug\net6.0\ColecoesHash.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\obj\Debug\net6.0\ColecoesHash.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\obj\Debug\net6.0\ColecoesHash.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\obj\Debug\net6.0\ColecoesHash.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\obj\Debug\net6.0\refint\ColecoesHash.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\obj\Debug\net6.0\ColecoesHash.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\obj\Debug\net6.0\ColecoesHash.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\ColecoesHash\ColecoesHash\obj\Debug\net6.0\ref\ColecoesHash.dll

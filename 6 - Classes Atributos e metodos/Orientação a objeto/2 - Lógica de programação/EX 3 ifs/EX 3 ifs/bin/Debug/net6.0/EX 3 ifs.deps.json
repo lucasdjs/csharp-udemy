@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EX 3 ifs/1.0.0": {
+        "runtime": {
+          "EX 3 ifs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX 3 ifs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

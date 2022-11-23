@@ -1,0 +1,15 @@
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\bin\Debug\net6.0\Entrada de dados pt2.exe
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\bin\Debug\net6.0\Entrada de dados pt2.deps.json
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\bin\Debug\net6.0\Entrada de dados pt2.runtimeconfig.json
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\bin\Debug\net6.0\Entrada de dados pt2.dll
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\bin\Debug\net6.0\Entrada de dados pt2.pdb
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\obj\Debug\net6.0\Entrada de dados pt2.csproj.AssemblyReference.cache
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\obj\Debug\net6.0\Entrada de dados pt2.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\obj\Debug\net6.0\Entrada de dados pt2.AssemblyInfoInputs.cache
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\obj\Debug\net6.0\Entrada de dados pt2.AssemblyInfo.cs
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\obj\Debug\net6.0\Entrada de dados pt2.csproj.CoreCompileInputs.cache
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\obj\Debug\net6.0\Entrada de dados pt2.dll
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\obj\Debug\net6.0\refint\Entrada de dados pt2.dll
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\obj\Debug\net6.0\Entrada de dados pt2.pdb
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\obj\Debug\net6.0\Entrada de dados pt2.genruntimeconfig.cache
+D:\lucas\Curso C#\csharp\Entrada de dados pt2\Entrada de dados pt2\obj\Debug\net6.0\ref\Entrada de dados pt2.dll

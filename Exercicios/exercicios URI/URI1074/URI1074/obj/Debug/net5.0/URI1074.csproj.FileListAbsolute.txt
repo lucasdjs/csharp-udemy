@@ -1,0 +1,16 @@
+C:\Users\Lucas\source\repos\URI1074\URI1074\bin\Debug\net5.0\URI1074.exe
+C:\Users\Lucas\source\repos\URI1074\URI1074\bin\Debug\net5.0\URI1074.deps.json
+C:\Users\Lucas\source\repos\URI1074\URI1074\bin\Debug\net5.0\URI1074.runtimeconfig.json
+C:\Users\Lucas\source\repos\URI1074\URI1074\bin\Debug\net5.0\URI1074.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\URI1074\URI1074\bin\Debug\net5.0\URI1074.dll
+C:\Users\Lucas\source\repos\URI1074\URI1074\bin\Debug\net5.0\ref\URI1074.dll
+C:\Users\Lucas\source\repos\URI1074\URI1074\bin\Debug\net5.0\URI1074.pdb
+C:\Users\Lucas\source\repos\URI1074\URI1074\obj\Debug\net5.0\URI1074.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\URI1074\URI1074\obj\Debug\net5.0\URI1074.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\URI1074\URI1074\obj\Debug\net5.0\URI1074.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\URI1074\URI1074\obj\Debug\net5.0\URI1074.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\URI1074\URI1074\obj\Debug\net5.0\URI1074.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\URI1074\URI1074\obj\Debug\net5.0\URI1074.dll
+C:\Users\Lucas\source\repos\URI1074\URI1074\obj\Debug\net5.0\ref\URI1074.dll
+C:\Users\Lucas\source\repos\URI1074\URI1074\obj\Debug\net5.0\URI1074.pdb
+C:\Users\Lucas\source\repos\URI1074\URI1074\obj\Debug\net5.0\URI1074.genruntimeconfig.cache

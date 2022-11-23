@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CREo2yaKZbffK/xtMmjh4MdnmGAyoD2a/ZcKSUD2ACxp8JppIPyjIbN+w96ZEILFcnKCAh68z+sM/GHuo7pxPw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Lucas\\Desktop\\Curso C#\\Orientação a objeto\\3 - Classes, atributos, métodos, membros estáticos\\Triangulo ex\\Triangulo ex\\Triangulo ex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

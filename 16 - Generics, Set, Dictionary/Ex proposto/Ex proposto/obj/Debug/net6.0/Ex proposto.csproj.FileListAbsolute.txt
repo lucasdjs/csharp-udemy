@@ -1,0 +1,15 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\bin\Debug\net6.0\Ex proposto.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\bin\Debug\net6.0\Ex proposto.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\bin\Debug\net6.0\Ex proposto.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\bin\Debug\net6.0\Ex proposto.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\bin\Debug\net6.0\Ex proposto.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\obj\Debug\net6.0\Ex proposto.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\obj\Debug\net6.0\Ex proposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\obj\Debug\net6.0\Ex proposto.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\obj\Debug\net6.0\Ex proposto.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\obj\Debug\net6.0\Ex proposto.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\obj\Debug\net6.0\Ex proposto.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\obj\Debug\net6.0\refint\Ex proposto.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\obj\Debug\net6.0\Ex proposto.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\obj\Debug\net6.0\Ex proposto.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex proposto\Ex proposto\obj\Debug\net6.0\ref\Ex proposto.dll

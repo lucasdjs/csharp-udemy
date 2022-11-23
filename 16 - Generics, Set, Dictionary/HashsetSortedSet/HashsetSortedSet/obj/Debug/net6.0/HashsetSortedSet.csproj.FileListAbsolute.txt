@@ -1,0 +1,15 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\bin\Debug\net6.0\HashsetSortedSet.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\bin\Debug\net6.0\HashsetSortedSet.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\bin\Debug\net6.0\HashsetSortedSet.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\bin\Debug\net6.0\HashsetSortedSet.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\bin\Debug\net6.0\HashsetSortedSet.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\obj\Debug\net6.0\HashsetSortedSet.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\obj\Debug\net6.0\HashsetSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\obj\Debug\net6.0\HashsetSortedSet.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\obj\Debug\net6.0\HashsetSortedSet.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\obj\Debug\net6.0\HashsetSortedSet.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\obj\Debug\net6.0\HashsetSortedSet.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\obj\Debug\net6.0\refint\HashsetSortedSet.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\obj\Debug\net6.0\HashsetSortedSet.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\obj\Debug\net6.0\HashsetSortedSet.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\HashsetSortedSet\HashsetSortedSet\obj\Debug\net6.0\ref\HashsetSortedSet.dll

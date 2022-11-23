@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\bin\Debug\net6.0\Parte 2.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\bin\Debug\net6.0\Parte 2.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\bin\Debug\net6.0\Parte 2.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\bin\Debug\net6.0\Parte 2.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\bin\Debug\net6.0\Parte 2.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\obj\Debug\net6.0\Parte 2.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\obj\Debug\net6.0\Parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\obj\Debug\net6.0\Parte 2.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\obj\Debug\net6.0\Parte 2.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\obj\Debug\net6.0\Parte 2.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\obj\Debug\net6.0\Parte 2.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\obj\Debug\net6.0\refint\Parte 2.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\obj\Debug\net6.0\Parte 2.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\obj\Debug\net6.0\Parte 2.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Criação de Exceções personalizadas\Parte 2\Parte 1\obj\Debug\net6.0\ref\Parte 2.dll

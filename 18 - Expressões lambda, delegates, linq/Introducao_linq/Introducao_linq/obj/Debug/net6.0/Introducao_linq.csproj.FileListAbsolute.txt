@@ -1,0 +1,15 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\bin\Debug\net6.0\Introducao_linq.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\bin\Debug\net6.0\Introducao_linq.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\bin\Debug\net6.0\Introducao_linq.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\bin\Debug\net6.0\Introducao_linq.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\bin\Debug\net6.0\Introducao_linq.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\obj\Debug\net6.0\Introducao_linq.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\obj\Debug\net6.0\Introducao_linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\obj\Debug\net6.0\Introducao_linq.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\obj\Debug\net6.0\Introducao_linq.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\obj\Debug\net6.0\Introducao_linq.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\obj\Debug\net6.0\Introducao_linq.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\obj\Debug\net6.0\refint\Introducao_linq.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\obj\Debug\net6.0\Introducao_linq.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\obj\Debug\net6.0\Introducao_linq.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Introducao_linq\Introducao_linq\obj\Debug\net6.0\ref\Introducao_linq.dll

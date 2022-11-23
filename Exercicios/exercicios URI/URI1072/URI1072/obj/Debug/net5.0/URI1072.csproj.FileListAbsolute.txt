@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\URI1072\URI1072\bin\Debug\net5.0\URI1072.exe
+C:\Users\Lucas\source\repos\URI1072\URI1072\bin\Debug\net5.0\URI1072.deps.json
+C:\Users\Lucas\source\repos\URI1072\URI1072\bin\Debug\net5.0\URI1072.runtimeconfig.json
+C:\Users\Lucas\source\repos\URI1072\URI1072\bin\Debug\net5.0\URI1072.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\URI1072\URI1072\bin\Debug\net5.0\URI1072.dll
+C:\Users\Lucas\source\repos\URI1072\URI1072\bin\Debug\net5.0\ref\URI1072.dll
+C:\Users\Lucas\source\repos\URI1072\URI1072\bin\Debug\net5.0\URI1072.pdb
+C:\Users\Lucas\source\repos\URI1072\URI1072\obj\Debug\net5.0\URI1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\URI1072\URI1072\obj\Debug\net5.0\URI1072.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\URI1072\URI1072\obj\Debug\net5.0\URI1072.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\URI1072\URI1072\obj\Debug\net5.0\URI1072.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\URI1072\URI1072\obj\Debug\net5.0\URI1072.dll
+C:\Users\Lucas\source\repos\URI1072\URI1072\obj\Debug\net5.0\ref\URI1072.dll
+C:\Users\Lucas\source\repos\URI1072\URI1072\obj\Debug\net5.0\URI1072.pdb
+C:\Users\Lucas\source\repos\URI1072\URI1072\obj\Debug\net5.0\URI1072.genruntimeconfig.cache

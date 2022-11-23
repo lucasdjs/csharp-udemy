@@ -1,0 +1,5 @@
+C:\Users\Lucas\source\repos\URI 1036\URI 1036\obj\Debug\net5.0\URI 1036.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\URI 1036\URI 1036\obj\Debug\net5.0\URI 1036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\URI 1036\URI 1036\obj\Debug\net5.0\URI 1036.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\URI 1036\URI 1036\obj\Debug\net5.0\URI 1036.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\URI 1036\URI 1036\obj\Debug\net5.0\URI 1036.csproj.CoreCompileInputs.cache

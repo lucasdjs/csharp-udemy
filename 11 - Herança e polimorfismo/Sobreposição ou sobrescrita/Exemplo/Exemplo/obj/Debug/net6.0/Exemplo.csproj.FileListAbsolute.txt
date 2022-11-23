@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\obj\Debug\net6.0\Exemplo.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\obj\Debug\net6.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\obj\Debug\net6.0\Exemplo.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\obj\Debug\net6.0\Exemplo.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\obj\Debug\net6.0\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\bin\Debug\net6.0\Exemplo.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\bin\Debug\net6.0\Exemplo.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\bin\Debug\net6.0\Exemplo.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\bin\Debug\net6.0\Exemplo.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\bin\Debug\net6.0\Exemplo.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\obj\Debug\net6.0\Exemplo.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\obj\Debug\net6.0\refint\Exemplo.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\obj\Debug\net6.0\Exemplo.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\obj\Debug\net6.0\Exemplo.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\11 - Herança e polimorfismo\Sobreposição ou sobrescrita\Exemplo\Exemplo\obj\Debug\net6.0\ref\Exemplo.dll

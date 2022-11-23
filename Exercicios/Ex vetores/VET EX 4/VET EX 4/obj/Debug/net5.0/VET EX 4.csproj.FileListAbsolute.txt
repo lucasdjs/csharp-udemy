@@ -1,0 +1,16 @@
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\bin\Debug\net5.0\VET EX 4.exe
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\bin\Debug\net5.0\VET EX 4.deps.json
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\bin\Debug\net5.0\VET EX 4.runtimeconfig.json
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\bin\Debug\net5.0\VET EX 4.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\bin\Debug\net5.0\VET EX 4.dll
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\bin\Debug\net5.0\ref\VET EX 4.dll
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\bin\Debug\net5.0\VET EX 4.pdb
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\obj\Debug\net5.0\VET EX 4.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\obj\Debug\net5.0\VET EX 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\obj\Debug\net5.0\VET EX 4.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\obj\Debug\net5.0\VET EX 4.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\obj\Debug\net5.0\VET EX 4.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\obj\Debug\net5.0\VET EX 4.dll
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\obj\Debug\net5.0\ref\VET EX 4.dll
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\obj\Debug\net5.0\VET EX 4.pdb
+C:\Users\Lucas\source\repos\VET EX 4\VET EX 4\obj\Debug\net5.0\VET EX 4.genruntimeconfig.cache

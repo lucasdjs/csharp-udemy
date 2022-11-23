@@ -1,0 +1,15 @@
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\bin\Debug\net6.0\EX 2 IF.exe
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\bin\Debug\net6.0\EX 2 IF.deps.json
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\bin\Debug\net6.0\EX 2 IF.runtimeconfig.json
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\bin\Debug\net6.0\EX 2 IF.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\bin\Debug\net6.0\ref\EX 2 IF.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\bin\Debug\net6.0\EX 2 IF.pdb
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\obj\Debug\net6.0\EX 2 IF.csproj.AssemblyReference.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\obj\Debug\net6.0\EX 2 IF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\obj\Debug\net6.0\EX 2 IF.AssemblyInfoInputs.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\obj\Debug\net6.0\EX 2 IF.AssemblyInfo.cs
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\obj\Debug\net6.0\EX 2 IF.csproj.CoreCompileInputs.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\obj\Debug\net6.0\EX 2 IF.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\obj\Debug\net6.0\ref\EX 2 IF.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\obj\Debug\net6.0\EX 2 IF.pdb
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 2 IF\EX 2 IF\obj\Debug\net6.0\EX 2 IF.genruntimeconfig.cache

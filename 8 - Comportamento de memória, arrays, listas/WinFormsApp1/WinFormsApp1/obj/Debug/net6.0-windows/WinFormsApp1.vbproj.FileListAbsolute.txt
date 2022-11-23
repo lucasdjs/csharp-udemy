@@ -1,0 +1,17 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

@@ -1,0 +1,15 @@
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\bin\Debug\net6.0\Ex02_OOBJ.exe
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\bin\Debug\net6.0\Ex02_OOBJ.deps.json
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\bin\Debug\net6.0\Ex02_OOBJ.runtimeconfig.json
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\bin\Debug\net6.0\Ex02_OOBJ.dll
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\bin\Debug\net6.0\Ex02_OOBJ.pdb
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\obj\Debug\net6.0\Ex02_OOBJ.csproj.AssemblyReference.cache
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\obj\Debug\net6.0\Ex02_OOBJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\obj\Debug\net6.0\Ex02_OOBJ.AssemblyInfoInputs.cache
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\obj\Debug\net6.0\Ex02_OOBJ.AssemblyInfo.cs
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\obj\Debug\net6.0\Ex02_OOBJ.csproj.CoreCompileInputs.cache
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\obj\Debug\net6.0\Ex02_OOBJ.dll
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\obj\Debug\net6.0\refint\Ex02_OOBJ.dll
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\obj\Debug\net6.0\Ex02_OOBJ.pdb
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\obj\Debug\net6.0\Ex02_OOBJ.genruntimeconfig.cache
+D:\lucas\Curso C#\csharp\Ex02_OOBJ\Ex02_OOBJ\obj\Debug\net6.0\ref\Ex02_OOBJ.dll

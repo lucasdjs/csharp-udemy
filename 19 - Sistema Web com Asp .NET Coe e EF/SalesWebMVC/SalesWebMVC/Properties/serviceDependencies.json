@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql"
+
+    },
+    "ConnectionStrings": "Data Source=NDD-NOT-DEV219\\SQLEXPRESS;Initial Catalog=SalesWeb;Integrated Security=True"
+
+  }
+}

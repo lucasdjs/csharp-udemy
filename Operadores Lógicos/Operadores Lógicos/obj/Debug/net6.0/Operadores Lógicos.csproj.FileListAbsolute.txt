@@ -1,0 +1,15 @@
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\bin\Debug\net6.0\Operadores Lógicos.exe
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\bin\Debug\net6.0\Operadores Lógicos.deps.json
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\bin\Debug\net6.0\Operadores Lógicos.runtimeconfig.json
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\bin\Debug\net6.0\Operadores Lógicos.dll
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\bin\Debug\net6.0\Operadores Lógicos.pdb
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.csproj.AssemblyReference.cache
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.AssemblyInfoInputs.cache
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.AssemblyInfo.cs
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.csproj.CoreCompileInputs.cache
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.dll
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\refint\Operadores Lógicos.dll
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.pdb
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.genruntimeconfig.cache
+D:\lucas\Curso C#\csharp\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\ref\Operadores Lógicos.dll

@@ -1,0 +1,15 @@
+D:\lucas\Curso C#\csharp\Funções\Funções\bin\Debug\net6.0\Funções.exe
+D:\lucas\Curso C#\csharp\Funções\Funções\bin\Debug\net6.0\Funções.deps.json
+D:\lucas\Curso C#\csharp\Funções\Funções\bin\Debug\net6.0\Funções.runtimeconfig.json
+D:\lucas\Curso C#\csharp\Funções\Funções\bin\Debug\net6.0\Funções.dll
+D:\lucas\Curso C#\csharp\Funções\Funções\bin\Debug\net6.0\Funções.pdb
+D:\lucas\Curso C#\csharp\Funções\Funções\obj\Debug\net6.0\Funções.csproj.AssemblyReference.cache
+D:\lucas\Curso C#\csharp\Funções\Funções\obj\Debug\net6.0\Funções.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucas\Curso C#\csharp\Funções\Funções\obj\Debug\net6.0\Funções.AssemblyInfoInputs.cache
+D:\lucas\Curso C#\csharp\Funções\Funções\obj\Debug\net6.0\Funções.AssemblyInfo.cs
+D:\lucas\Curso C#\csharp\Funções\Funções\obj\Debug\net6.0\Funções.csproj.CoreCompileInputs.cache
+D:\lucas\Curso C#\csharp\Funções\Funções\obj\Debug\net6.0\Funções.dll
+D:\lucas\Curso C#\csharp\Funções\Funções\obj\Debug\net6.0\refint\Funções.dll
+D:\lucas\Curso C#\csharp\Funções\Funções\obj\Debug\net6.0\Funções.pdb
+D:\lucas\Curso C#\csharp\Funções\Funções\obj\Debug\net6.0\Funções.genruntimeconfig.cache
+D:\lucas\Curso C#\csharp\Funções\Funções\obj\Debug\net6.0\ref\Funções.dll

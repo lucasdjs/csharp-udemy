@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\bin\Debug\net6.0\Exercicio vetor.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\bin\Debug\net6.0\Exercicio vetor.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\bin\Debug\net6.0\Exercicio vetor.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\bin\Debug\net6.0\Exercicio vetor.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\bin\Debug\net6.0\Exercicio vetor.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\obj\Debug\net6.0\Exercicio vetor.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\obj\Debug\net6.0\Exercicio vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\obj\Debug\net6.0\Exercicio vetor.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\obj\Debug\net6.0\Exercicio vetor.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\obj\Debug\net6.0\Exercicio vetor.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\obj\Debug\net6.0\Exercicio vetor.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\obj\Debug\net6.0\refint\Exercicio vetor.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\obj\Debug\net6.0\Exercicio vetor.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\obj\Debug\net6.0\Exercicio vetor.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio vetor\Exercicio vetor\obj\Debug\net6.0\ref\Exercicio vetor.dll

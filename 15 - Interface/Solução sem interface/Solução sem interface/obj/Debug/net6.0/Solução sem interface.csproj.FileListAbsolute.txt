@@ -1,0 +1,15 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\obj\Debug\net6.0\Solução sem interface.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\obj\Debug\net6.0\Solução sem interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\obj\Debug\net6.0\Solução sem interface.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\obj\Debug\net6.0\Solução sem interface.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\obj\Debug\net6.0\Solução sem interface.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\bin\Debug\net6.0\Solução sem interface.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\bin\Debug\net6.0\Solução sem interface.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\bin\Debug\net6.0\Solução sem interface.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\bin\Debug\net6.0\Solução sem interface.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\bin\Debug\net6.0\Solução sem interface.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\obj\Debug\net6.0\Solução sem interface.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\obj\Debug\net6.0\refint\Solução sem interface.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\obj\Debug\net6.0\Solução sem interface.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\obj\Debug\net6.0\Solução sem interface.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Solução sem interface\Solução sem interface\obj\Debug\net6.0\ref\Solução sem interface.dll

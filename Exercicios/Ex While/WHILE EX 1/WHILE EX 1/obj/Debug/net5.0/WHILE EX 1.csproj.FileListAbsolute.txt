@@ -1,0 +1,16 @@
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\bin\Debug\net5.0\WHILE EX 1.exe
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\bin\Debug\net5.0\WHILE EX 1.deps.json
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\bin\Debug\net5.0\WHILE EX 1.runtimeconfig.json
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\bin\Debug\net5.0\WHILE EX 1.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\bin\Debug\net5.0\WHILE EX 1.dll
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\bin\Debug\net5.0\ref\WHILE EX 1.dll
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\bin\Debug\net5.0\WHILE EX 1.pdb
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\obj\Debug\net5.0\WHILE EX 1.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\obj\Debug\net5.0\WHILE EX 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\obj\Debug\net5.0\WHILE EX 1.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\obj\Debug\net5.0\WHILE EX 1.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\obj\Debug\net5.0\WHILE EX 1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\obj\Debug\net5.0\WHILE EX 1.dll
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\obj\Debug\net5.0\ref\WHILE EX 1.dll
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\obj\Debug\net5.0\WHILE EX 1.pdb
+C:\Users\Lucas\source\repos\WHILE EX 1\WHILE EX 1\obj\Debug\net5.0\WHILE EX 1.genruntimeconfig.cache

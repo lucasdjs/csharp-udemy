@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\bin\Debug\net6.0\Exemplo TryCath.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\bin\Debug\net6.0\Exemplo TryCath.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\bin\Debug\net6.0\Exemplo TryCath.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\bin\Debug\net6.0\Exemplo TryCath.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\bin\Debug\net6.0\Exemplo TryCath.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\obj\Debug\net6.0\Exemplo TryCath.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\obj\Debug\net6.0\Exemplo TryCath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\obj\Debug\net6.0\Exemplo TryCath.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\obj\Debug\net6.0\Exemplo TryCath.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\obj\Debug\net6.0\Exemplo TryCath.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\obj\Debug\net6.0\Exemplo TryCath.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\obj\Debug\net6.0\refint\Exemplo TryCath.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\obj\Debug\net6.0\Exemplo TryCath.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\obj\Debug\net6.0\Exemplo TryCath.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Estrutura Try-Catch\Exemplo TryCath\Exemplo TryCath\obj\Debug\net6.0\ref\Exemplo TryCath.dll

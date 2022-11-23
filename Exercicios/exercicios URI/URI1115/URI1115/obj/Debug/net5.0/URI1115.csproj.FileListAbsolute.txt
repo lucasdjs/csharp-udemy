@@ -1,0 +1,16 @@
+C:\Users\Lucas\source\repos\URI1115\URI1115\obj\Debug\net5.0\URI1115.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\URI1115\URI1115\obj\Debug\net5.0\URI1115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\URI1115\URI1115\obj\Debug\net5.0\URI1115.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\URI1115\URI1115\obj\Debug\net5.0\URI1115.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\URI1115\URI1115\obj\Debug\net5.0\URI1115.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\URI1115\URI1115\bin\Debug\net5.0\URI1115.exe
+C:\Users\Lucas\source\repos\URI1115\URI1115\bin\Debug\net5.0\URI1115.deps.json
+C:\Users\Lucas\source\repos\URI1115\URI1115\bin\Debug\net5.0\URI1115.runtimeconfig.json
+C:\Users\Lucas\source\repos\URI1115\URI1115\bin\Debug\net5.0\URI1115.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\URI1115\URI1115\bin\Debug\net5.0\URI1115.dll
+C:\Users\Lucas\source\repos\URI1115\URI1115\bin\Debug\net5.0\ref\URI1115.dll
+C:\Users\Lucas\source\repos\URI1115\URI1115\bin\Debug\net5.0\URI1115.pdb
+C:\Users\Lucas\source\repos\URI1115\URI1115\obj\Debug\net5.0\URI1115.dll
+C:\Users\Lucas\source\repos\URI1115\URI1115\obj\Debug\net5.0\ref\URI1115.dll
+C:\Users\Lucas\source\repos\URI1115\URI1115\obj\Debug\net5.0\URI1115.pdb
+C:\Users\Lucas\source\repos\URI1115\URI1115\obj\Debug\net5.0\URI1115.genruntimeconfig.cache

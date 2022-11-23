@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\bin\Debug\net6.0\Funções interessantes.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\bin\Debug\net6.0\Funções interessantes.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\bin\Debug\net6.0\Funções interessantes.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\bin\Debug\net6.0\Funções interessantes.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\bin\Debug\net6.0\Funções interessantes.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\obj\Debug\net6.0\Funções interessantes.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\obj\Debug\net6.0\Funções interessantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\obj\Debug\net6.0\Funções interessantes.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\obj\Debug\net6.0\Funções interessantes.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\obj\Debug\net6.0\Funções interessantes.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\obj\Debug\net6.0\Funções interessantes.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\obj\Debug\net6.0\refint\Funções interessantes.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\obj\Debug\net6.0\Funções interessantes.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\obj\Debug\net6.0\Funções interessantes.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Funções interessantes\Funções interessantes\obj\Debug\net6.0\ref\Funções interessantes.dll

@@ -1,0 +1,16 @@
+C:\Users\Lucas\source\repos\xkk\xkk\bin\Debug\net5.0\xkk.exe
+C:\Users\Lucas\source\repos\xkk\xkk\bin\Debug\net5.0\xkk.deps.json
+C:\Users\Lucas\source\repos\xkk\xkk\bin\Debug\net5.0\xkk.runtimeconfig.json
+C:\Users\Lucas\source\repos\xkk\xkk\bin\Debug\net5.0\xkk.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\xkk\xkk\bin\Debug\net5.0\xkk.dll
+C:\Users\Lucas\source\repos\xkk\xkk\bin\Debug\net5.0\ref\xkk.dll
+C:\Users\Lucas\source\repos\xkk\xkk\bin\Debug\net5.0\xkk.pdb
+C:\Users\Lucas\source\repos\xkk\xkk\obj\Debug\net5.0\xkk.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\xkk\xkk\obj\Debug\net5.0\xkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\xkk\xkk\obj\Debug\net5.0\xkk.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\xkk\xkk\obj\Debug\net5.0\xkk.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\xkk\xkk\obj\Debug\net5.0\xkk.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\xkk\xkk\obj\Debug\net5.0\xkk.dll
+C:\Users\Lucas\source\repos\xkk\xkk\obj\Debug\net5.0\ref\xkk.dll
+C:\Users\Lucas\source\repos\xkk\xkk\obj\Debug\net5.0\xkk.pdb
+C:\Users\Lucas\source\repos\xkk\xkk\obj\Debug\net5.0\xkk.genruntimeconfig.cache

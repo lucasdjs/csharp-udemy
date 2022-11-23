@@ -1,0 +1,13 @@
+ string [] vet; ---- declara o vetor
+
+            vet = Console.ReadLine().Split(' ');
+	    vetor recebe = tudo que vem o espaço e declara o split
+
+nome1 = vet[0]; ----- nome1 recebe o vetor da posição 0.
+
+idade1 = int.parse(vet[1]); ----- idade1 recebe o vetor da posição 1;
+
+
+
+
+	

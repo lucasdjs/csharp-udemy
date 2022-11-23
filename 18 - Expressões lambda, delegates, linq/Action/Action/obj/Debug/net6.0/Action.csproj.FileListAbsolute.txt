@@ -1,0 +1,15 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\bin\Debug\net6.0\Action.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\bin\Debug\net6.0\Action.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\bin\Debug\net6.0\Action.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\bin\Debug\net6.0\Action.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\bin\Debug\net6.0\Action.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\obj\Debug\net6.0\Action.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\obj\Debug\net6.0\Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\obj\Debug\net6.0\Action.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\obj\Debug\net6.0\Action.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\obj\Debug\net6.0\Action.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\obj\Debug\net6.0\Action.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\obj\Debug\net6.0\refint\Action.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\obj\Debug\net6.0\Action.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\obj\Debug\net6.0\Action.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Action\Action\obj\Debug\net6.0\ref\Action.dll

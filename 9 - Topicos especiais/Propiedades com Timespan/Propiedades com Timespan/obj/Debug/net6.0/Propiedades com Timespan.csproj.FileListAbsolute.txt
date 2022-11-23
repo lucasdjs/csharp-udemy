@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\bin\Debug\net6.0\Propiedades com Timespan.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\bin\Debug\net6.0\Propiedades com Timespan.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\bin\Debug\net6.0\Propiedades com Timespan.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\bin\Debug\net6.0\Propiedades com Timespan.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\bin\Debug\net6.0\Propiedades com Timespan.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\obj\Debug\net6.0\Propiedades com Timespan.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\obj\Debug\net6.0\Propiedades com Timespan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\obj\Debug\net6.0\Propiedades com Timespan.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\obj\Debug\net6.0\Propiedades com Timespan.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\obj\Debug\net6.0\Propiedades com Timespan.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\obj\Debug\net6.0\Propiedades com Timespan.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\obj\Debug\net6.0\refint\Propiedades com Timespan.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\obj\Debug\net6.0\Propiedades com Timespan.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\obj\Debug\net6.0\Propiedades com Timespan.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades com Timespan\Propiedades com Timespan\obj\Debug\net6.0\ref\Propiedades com Timespan.dll

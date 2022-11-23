@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Operações com DateTime/1.0.0": {
+        "runtime": {
+          "Operações com DateTime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operações com DateTime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

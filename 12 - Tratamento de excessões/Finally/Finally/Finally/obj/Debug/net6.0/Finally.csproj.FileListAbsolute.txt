@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\bin\Debug\net6.0\Finally.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\bin\Debug\net6.0\Finally.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\bin\Debug\net6.0\Finally.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\bin\Debug\net6.0\Finally.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\bin\Debug\net6.0\Finally.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\obj\Debug\net6.0\Finally.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\obj\Debug\net6.0\Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\obj\Debug\net6.0\Finally.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\obj\Debug\net6.0\Finally.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\obj\Debug\net6.0\Finally.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\obj\Debug\net6.0\Finally.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\obj\Debug\net6.0\refint\Finally.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\obj\Debug\net6.0\Finally.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\obj\Debug\net6.0\Finally.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\12 - Tratamento de excessões\Finally\Finally\Finally\obj\Debug\net6.0\ref\Finally.dll

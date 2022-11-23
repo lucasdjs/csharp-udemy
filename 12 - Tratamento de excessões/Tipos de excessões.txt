@@ -1,0 +1,10 @@
+1 - System Exception  - Excessões da aplicação
+	1.1 - IndexOutOfRangeException - Tenta acessar posição de array e não existe essa posição.
+
+	1.2 ArithmeticException
+		1.2.1 - DivideByZeroException - Algum numero tentou dividir por zero
+		1.2.2 - OverFlowException - Quando estoura o tamanho de algum valor.
+		1.2.3 - FormatException - Formato do valor incorreto
+
+
+2- AplicationException - Excessões personalizadas

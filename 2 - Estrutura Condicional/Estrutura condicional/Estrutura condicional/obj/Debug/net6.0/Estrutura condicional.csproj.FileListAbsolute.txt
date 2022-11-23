@@ -1,0 +1,15 @@
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\bin\Debug\net6.0\Estrutura condicional.exe
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\bin\Debug\net6.0\Estrutura condicional.deps.json
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\bin\Debug\net6.0\Estrutura condicional.runtimeconfig.json
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\bin\Debug\net6.0\Estrutura condicional.dll
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\bin\Debug\net6.0\Estrutura condicional.pdb
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\obj\Debug\net6.0\Estrutura condicional.csproj.AssemblyReference.cache
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\obj\Debug\net6.0\Estrutura condicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\obj\Debug\net6.0\Estrutura condicional.AssemblyInfoInputs.cache
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\obj\Debug\net6.0\Estrutura condicional.AssemblyInfo.cs
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\obj\Debug\net6.0\Estrutura condicional.csproj.CoreCompileInputs.cache
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\obj\Debug\net6.0\Estrutura condicional.dll
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\obj\Debug\net6.0\refint\Estrutura condicional.dll
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\obj\Debug\net6.0\Estrutura condicional.pdb
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\obj\Debug\net6.0\Estrutura condicional.genruntimeconfig.cache
+D:\lucas\Curso C#\csharp\Estrutura condicional\Estrutura condicional\obj\Debug\net6.0\ref\Estrutura condicional.dll

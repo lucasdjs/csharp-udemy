@@ -1,0 +1,2 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio de fixação Vetor\Exercicio de fixação Vetor\obj\Debug\net6.0\Exercicio de fixação Vetor.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Exercicio de fixação Vetor\Exercicio de fixação Vetor\obj\Debug\net6.0\Exercicio de fixação Vetor.GeneratedMSBuildEditorConfig.editorconfig

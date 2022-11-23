@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio 6 VET/1.0.0": {
+        "runtime": {
+          "Exercicio 6 VET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio 6 VET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

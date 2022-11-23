@@ -1,0 +1,30 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\refint\Linq_Lambda.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\ref\Linq_Lambda.dll
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.csproj.AssemblyReference.cache
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.AssemblyInfoInputs.cache
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.AssemblyInfo.cs
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.csproj.CoreCompileInputs.cache
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.dll
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\refint\Linq_Lambda.dll
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.pdb
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.exe
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.deps.json
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.runtimeconfig.json
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.dll
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.pdb
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.genruntimeconfig.cache
+C:\Udemy\18 - Expressões lambda, delegates, linq\Linq_Lambda\Linq_Lambda\obj\Debug\net6.0\ref\Linq_Lambda.dll

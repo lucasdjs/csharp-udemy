@@ -1,0 +1,15 @@
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\obj\Debug\net6.0\EX 3 ifs.csproj.AssemblyReference.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\obj\Debug\net6.0\EX 3 ifs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\obj\Debug\net6.0\EX 3 ifs.AssemblyInfoInputs.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\obj\Debug\net6.0\EX 3 ifs.AssemblyInfo.cs
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\obj\Debug\net6.0\EX 3 ifs.csproj.CoreCompileInputs.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\bin\Debug\net6.0\EX 3 ifs.exe
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\bin\Debug\net6.0\EX 3 ifs.deps.json
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\bin\Debug\net6.0\EX 3 ifs.runtimeconfig.json
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\bin\Debug\net6.0\EX 3 ifs.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\bin\Debug\net6.0\ref\EX 3 ifs.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\bin\Debug\net6.0\EX 3 ifs.pdb
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\obj\Debug\net6.0\EX 3 ifs.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\obj\Debug\net6.0\ref\EX 3 ifs.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\obj\Debug\net6.0\EX 3 ifs.pdb
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\2 - Lógica de programação\EX 3 ifs\EX 3 ifs\obj\Debug\net6.0\EX 3 ifs.genruntimeconfig.cache

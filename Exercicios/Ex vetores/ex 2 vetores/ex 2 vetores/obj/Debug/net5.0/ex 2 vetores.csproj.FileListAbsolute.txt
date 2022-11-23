@@ -1,0 +1,16 @@
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\bin\Debug\net5.0\ex 2 vetores.exe
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\bin\Debug\net5.0\ex 2 vetores.deps.json
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\bin\Debug\net5.0\ex 2 vetores.runtimeconfig.json
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\bin\Debug\net5.0\ex 2 vetores.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\bin\Debug\net5.0\ex 2 vetores.dll
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\bin\Debug\net5.0\ref\ex 2 vetores.dll
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\bin\Debug\net5.0\ex 2 vetores.pdb
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\obj\Debug\net5.0\ex 2 vetores.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\obj\Debug\net5.0\ex 2 vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\obj\Debug\net5.0\ex 2 vetores.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\obj\Debug\net5.0\ex 2 vetores.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\obj\Debug\net5.0\ex 2 vetores.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\obj\Debug\net5.0\ex 2 vetores.dll
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\obj\Debug\net5.0\ref\ex 2 vetores.dll
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\obj\Debug\net5.0\ex 2 vetores.pdb
+C:\Users\Lucas\source\repos\ex 2 vetores\ex 2 vetores\obj\Debug\net5.0\ex 2 vetores.genruntimeconfig.cache

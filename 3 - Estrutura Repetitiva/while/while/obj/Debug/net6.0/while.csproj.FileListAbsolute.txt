@@ -1,0 +1,15 @@
+D:\lucas\Curso C#\csharp\while\while\bin\Debug\net6.0\while.exe
+D:\lucas\Curso C#\csharp\while\while\bin\Debug\net6.0\while.deps.json
+D:\lucas\Curso C#\csharp\while\while\bin\Debug\net6.0\while.runtimeconfig.json
+D:\lucas\Curso C#\csharp\while\while\bin\Debug\net6.0\while.dll
+D:\lucas\Curso C#\csharp\while\while\bin\Debug\net6.0\while.pdb
+D:\lucas\Curso C#\csharp\while\while\obj\Debug\net6.0\while.csproj.AssemblyReference.cache
+D:\lucas\Curso C#\csharp\while\while\obj\Debug\net6.0\while.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucas\Curso C#\csharp\while\while\obj\Debug\net6.0\while.AssemblyInfoInputs.cache
+D:\lucas\Curso C#\csharp\while\while\obj\Debug\net6.0\while.AssemblyInfo.cs
+D:\lucas\Curso C#\csharp\while\while\obj\Debug\net6.0\while.csproj.CoreCompileInputs.cache
+D:\lucas\Curso C#\csharp\while\while\obj\Debug\net6.0\while.dll
+D:\lucas\Curso C#\csharp\while\while\obj\Debug\net6.0\refint\while.dll
+D:\lucas\Curso C#\csharp\while\while\obj\Debug\net6.0\while.pdb
+D:\lucas\Curso C#\csharp\while\while\obj\Debug\net6.0\while.genruntimeconfig.cache
+D:\lucas\Curso C#\csharp\while\while\obj\Debug\net6.0\ref\while.dll

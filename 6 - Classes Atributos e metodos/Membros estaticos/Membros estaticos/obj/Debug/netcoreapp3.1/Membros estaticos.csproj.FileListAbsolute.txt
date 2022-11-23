@@ -1,0 +1,14 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\bin\Debug\netcoreapp3.1\Membros estaticos.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\bin\Debug\netcoreapp3.1\Membros estaticos.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\bin\Debug\netcoreapp3.1\Membros estaticos.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\bin\Debug\netcoreapp3.1\Membros estaticos.runtimeconfig.dev.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\bin\Debug\netcoreapp3.1\Membros estaticos.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\bin\Debug\netcoreapp3.1\Membros estaticos.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp3.1\Membros estaticos.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp3.1\Membros estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp3.1\Membros estaticos.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp3.1\Membros estaticos.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp3.1\Membros estaticos.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp3.1\Membros estaticos.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp3.1\Membros estaticos.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp3.1\Membros estaticos.genruntimeconfig.cache

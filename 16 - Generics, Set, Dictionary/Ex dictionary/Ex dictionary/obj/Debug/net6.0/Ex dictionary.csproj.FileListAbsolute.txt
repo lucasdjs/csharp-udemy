@@ -1,0 +1,15 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\obj\Debug\net6.0\Ex dictionary.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\obj\Debug\net6.0\Ex dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\obj\Debug\net6.0\Ex dictionary.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\obj\Debug\net6.0\Ex dictionary.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\obj\Debug\net6.0\Ex dictionary.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\bin\Debug\net6.0\Ex dictionary.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\bin\Debug\net6.0\Ex dictionary.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\bin\Debug\net6.0\Ex dictionary.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\bin\Debug\net6.0\Ex dictionary.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\bin\Debug\net6.0\Ex dictionary.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\obj\Debug\net6.0\Ex dictionary.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\obj\Debug\net6.0\refint\Ex dictionary.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\obj\Debug\net6.0\Ex dictionary.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\obj\Debug\net6.0\Ex dictionary.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\Ex dictionary\Ex dictionary\obj\Debug\net6.0\ref\Ex dictionary.dll

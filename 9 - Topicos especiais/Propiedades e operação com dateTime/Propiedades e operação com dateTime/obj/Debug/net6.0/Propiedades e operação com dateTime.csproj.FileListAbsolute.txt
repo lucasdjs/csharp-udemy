@@ -1,0 +1,2 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades e operação com dateTime\Propiedades e operação com dateTime\obj\Debug\net6.0\Propiedades e operação com dateTime.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Propiedades e operação com dateTime\Propiedades e operação com dateTime\obj\Debug\net6.0\Propiedades e operação com dateTime.GeneratedMSBuildEditorConfig.editorconfig

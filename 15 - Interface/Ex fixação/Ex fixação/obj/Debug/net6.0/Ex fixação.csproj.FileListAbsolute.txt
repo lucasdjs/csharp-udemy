@@ -1,0 +1,15 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\bin\Debug\net6.0\Ex fixação.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\bin\Debug\net6.0\Ex fixação.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\bin\Debug\net6.0\Ex fixação.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\bin\Debug\net6.0\Ex fixação.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\bin\Debug\net6.0\Ex fixação.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\obj\Debug\net6.0\Ex fixação.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\obj\Debug\net6.0\Ex fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\obj\Debug\net6.0\Ex fixação.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\obj\Debug\net6.0\Ex fixação.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\obj\Debug\net6.0\Ex fixação.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\obj\Debug\net6.0\Ex fixação.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\obj\Debug\net6.0\refint\Ex fixação.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\obj\Debug\net6.0\Ex fixação.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\obj\Debug\net6.0\Ex fixação.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Ex fixação\Ex fixação\obj\Debug\net6.0\ref\Ex fixação.dll

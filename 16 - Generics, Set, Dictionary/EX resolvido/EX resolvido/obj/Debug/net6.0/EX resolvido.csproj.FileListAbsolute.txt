@@ -1,0 +1,15 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\bin\Debug\net6.0\EX resolvido.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\bin\Debug\net6.0\EX resolvido.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\bin\Debug\net6.0\EX resolvido.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\bin\Debug\net6.0\EX resolvido.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\bin\Debug\net6.0\EX resolvido.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\obj\Debug\net6.0\EX resolvido.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\obj\Debug\net6.0\EX resolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\obj\Debug\net6.0\EX resolvido.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\obj\Debug\net6.0\EX resolvido.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\obj\Debug\net6.0\EX resolvido.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\obj\Debug\net6.0\EX resolvido.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\obj\Debug\net6.0\refint\EX resolvido.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\obj\Debug\net6.0\EX resolvido.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\obj\Debug\net6.0\EX resolvido.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\16 - Generics, Set, Dictionary\EX resolvido\EX resolvido\obj\Debug\net6.0\ref\EX resolvido.dll

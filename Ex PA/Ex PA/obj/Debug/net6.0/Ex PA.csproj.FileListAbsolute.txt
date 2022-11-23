@@ -1,0 +1,15 @@
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\bin\Debug\net6.0\Ex PA.exe
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\bin\Debug\net6.0\Ex PA.deps.json
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\bin\Debug\net6.0\Ex PA.runtimeconfig.json
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\bin\Debug\net6.0\Ex PA.dll
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\bin\Debug\net6.0\Ex PA.pdb
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\obj\Debug\net6.0\Ex PA.csproj.AssemblyReference.cache
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\obj\Debug\net6.0\Ex PA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\obj\Debug\net6.0\Ex PA.AssemblyInfoInputs.cache
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\obj\Debug\net6.0\Ex PA.AssemblyInfo.cs
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\obj\Debug\net6.0\Ex PA.csproj.CoreCompileInputs.cache
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\obj\Debug\net6.0\Ex PA.dll
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\obj\Debug\net6.0\refint\Ex PA.dll
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\obj\Debug\net6.0\Ex PA.pdb
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\obj\Debug\net6.0\Ex PA.genruntimeconfig.cache
+D:\Users\Lucas\Desktop\Curso C#\csharp\Ex PA\Ex PA\obj\Debug\net6.0\ref\Ex PA.dll

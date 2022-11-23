@@ -1,0 +1,16 @@
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\bin\Debug\net5.0\Exercicio 6 VET.exe
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\bin\Debug\net5.0\Exercicio 6 VET.deps.json
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\bin\Debug\net5.0\Exercicio 6 VET.runtimeconfig.json
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\bin\Debug\net5.0\Exercicio 6 VET.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\bin\Debug\net5.0\Exercicio 6 VET.dll
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\bin\Debug\net5.0\ref\Exercicio 6 VET.dll
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\bin\Debug\net5.0\Exercicio 6 VET.pdb
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\obj\Debug\net5.0\Exercicio 6 VET.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\obj\Debug\net5.0\Exercicio 6 VET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\obj\Debug\net5.0\Exercicio 6 VET.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\obj\Debug\net5.0\Exercicio 6 VET.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\obj\Debug\net5.0\Exercicio 6 VET.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\obj\Debug\net5.0\Exercicio 6 VET.dll
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\obj\Debug\net5.0\ref\Exercicio 6 VET.dll
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\obj\Debug\net5.0\Exercicio 6 VET.pdb
+C:\Users\Lucas\source\repos\Exercicio 6 VET\Exercicio 6 VET\obj\Debug\net5.0\Exercicio 6 VET.genruntimeconfig.cache

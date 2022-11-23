@@ -1,0 +1,15 @@
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\bin\Debug\net6.0\Exercicio 01 Orientação a objeto.exe
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\bin\Debug\net6.0\Exercicio 01 Orientação a objeto.deps.json
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\bin\Debug\net6.0\Exercicio 01 Orientação a objeto.runtimeconfig.json
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\bin\Debug\net6.0\Exercicio 01 Orientação a objeto.dll
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\bin\Debug\net6.0\Exercicio 01 Orientação a objeto.pdb
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\obj\Debug\net6.0\Exercicio 01 Orientação a objeto.csproj.AssemblyReference.cache
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\obj\Debug\net6.0\Exercicio 01 Orientação a objeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\obj\Debug\net6.0\Exercicio 01 Orientação a objeto.AssemblyInfoInputs.cache
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\obj\Debug\net6.0\Exercicio 01 Orientação a objeto.AssemblyInfo.cs
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\obj\Debug\net6.0\Exercicio 01 Orientação a objeto.csproj.CoreCompileInputs.cache
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\obj\Debug\net6.0\Exercicio 01 Orientação a objeto.dll
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\obj\Debug\net6.0\refint\Exercicio 01 Orientação a objeto.dll
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\obj\Debug\net6.0\Exercicio 01 Orientação a objeto.pdb
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\obj\Debug\net6.0\Exercicio 01 Orientação a objeto.genruntimeconfig.cache
+D:\lucas\Curso C#\csharp\Exercicio 01 Orientação a objeto\Exercicio 01 Orientação a objeto\obj\Debug\net6.0\ref\Exercicio 01 Orientação a objeto.dll

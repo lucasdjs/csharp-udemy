@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\bin\Debug\net6.0\Operações com DateTime.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\bin\Debug\net6.0\Operações com DateTime.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\bin\Debug\net6.0\Operações com DateTime.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\bin\Debug\net6.0\Operações com DateTime.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\bin\Debug\net6.0\Operações com DateTime.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\obj\Debug\net6.0\Operações com DateTime.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\obj\Debug\net6.0\Operações com DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\obj\Debug\net6.0\Operações com DateTime.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\obj\Debug\net6.0\Operações com DateTime.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\obj\Debug\net6.0\Operações com DateTime.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\obj\Debug\net6.0\Operações com DateTime.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\obj\Debug\net6.0\refint\Operações com DateTime.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\obj\Debug\net6.0\Operações com DateTime.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\obj\Debug\net6.0\Operações com DateTime.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\9 - Topicos especiais\Operações com DateTime\Operações com DateTime\obj\Debug\net6.0\ref\Operações com DateTime.dll

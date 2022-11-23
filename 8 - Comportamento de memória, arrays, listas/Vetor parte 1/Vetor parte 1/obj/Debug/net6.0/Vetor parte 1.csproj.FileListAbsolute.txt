@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\bin\Debug\net6.0\Vetor parte 1.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\bin\Debug\net6.0\Vetor parte 1.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\bin\Debug\net6.0\Vetor parte 1.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\bin\Debug\net6.0\Vetor parte 1.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\bin\Debug\net6.0\Vetor parte 1.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\obj\Debug\net6.0\Vetor parte 1.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\obj\Debug\net6.0\Vetor parte 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\obj\Debug\net6.0\Vetor parte 1.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\obj\Debug\net6.0\Vetor parte 1.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\obj\Debug\net6.0\Vetor parte 1.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\obj\Debug\net6.0\Vetor parte 1.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\obj\Debug\net6.0\refint\Vetor parte 1.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\obj\Debug\net6.0\Vetor parte 1.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\obj\Debug\net6.0\Vetor parte 1.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\8 - Comportamento de memória, arrays, listas\Vetor parte 1\Vetor parte 1\obj\Debug\net6.0\ref\Vetor parte 1.dll

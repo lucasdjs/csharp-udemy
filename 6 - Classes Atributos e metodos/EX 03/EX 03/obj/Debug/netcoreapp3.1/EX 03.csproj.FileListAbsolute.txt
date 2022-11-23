@@ -1,0 +1,14 @@
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\bin\Debug\netcoreapp3.1\EX 03.exe
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\bin\Debug\netcoreapp3.1\EX 03.deps.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\bin\Debug\netcoreapp3.1\EX 03.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\bin\Debug\netcoreapp3.1\EX 03.runtimeconfig.dev.json
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\bin\Debug\netcoreapp3.1\EX 03.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\bin\Debug\netcoreapp3.1\EX 03.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\obj\Debug\netcoreapp3.1\EX 03.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\obj\Debug\netcoreapp3.1\EX 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\obj\Debug\netcoreapp3.1\EX 03.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\obj\Debug\netcoreapp3.1\EX 03.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\obj\Debug\netcoreapp3.1\EX 03.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\obj\Debug\netcoreapp3.1\EX 03.dll
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\obj\Debug\netcoreapp3.1\EX 03.pdb
+C:\Users\lucas_7p11azf\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\6 - Classes Atributos e metodos\EX 03\EX 03\obj\Debug\netcoreapp3.1\EX 03.genruntimeconfig.cache

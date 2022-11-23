@@ -1,0 +1,7 @@
+﻿"Vetores2.exe" (CoreCLR: DefaultDomain): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.12\System.Private.CoreLib.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Vetores2.exe" (CoreCLR: clrhost): Carregado "C:\Users\Lucas\source\repos\Vetores2\Vetores2\bin\Debug\net5.0\Vetores2.dll". Símbolos carregados.
+"Vetores2.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.12\System.Runtime.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Vetores2.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.12\System.Console.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Vetores2.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.12\System.Threading.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Vetores2.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.12\System.Text.Encoding.Extensions.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+O programa "[12620] Vetores2.exe" foi fechado com o código 0 (0x0).

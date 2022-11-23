@@ -1,0 +1,15 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\bin\Debug\net6.0\Herdar VS Interface.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\bin\Debug\net6.0\Herdar VS Interface.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\bin\Debug\net6.0\Herdar VS Interface.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\bin\Debug\net6.0\Herdar VS Interface.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\bin\Debug\net6.0\Herdar VS Interface.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\obj\Debug\net6.0\Herdar VS Interface.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\obj\Debug\net6.0\Herdar VS Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\obj\Debug\net6.0\Herdar VS Interface.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\obj\Debug\net6.0\Herdar VS Interface.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\obj\Debug\net6.0\Herdar VS Interface.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\obj\Debug\net6.0\Herdar VS Interface.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\obj\Debug\net6.0\refint\Herdar VS Interface.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\obj\Debug\net6.0\Herdar VS Interface.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\obj\Debug\net6.0\Herdar VS Interface.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Curso C#\csharp\15 - Interface\Herdar VS Interface\Herdar VS Interface\obj\Debug\net6.0\ref\Herdar VS Interface.dll

@@ -1,0 +1,7 @@
+﻿"EX.exe" (CoreCLR: DefaultDomain): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Private.CoreLib.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"EX.exe" (CoreCLR: clrhost): Carregado "C:\Users\Lucas\source\repos\EX\EX\bin\Debug\net5.0\EX.dll". Símbolos carregados.
+"EX.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Runtime.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"EX.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Console.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"EX.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Threading.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"EX.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Text.Encoding.Extensions.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+O programa "[12236] EX.exe" foi fechado com o código 0 (0x0).

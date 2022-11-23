@@ -1,0 +1,30 @@
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.exe
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.deps.json
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.runtimeconfig.json
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.dll
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.pdb
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.csproj.AssemblyReference.cache
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.AssemblyInfoInputs.cache
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.AssemblyInfo.cs
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.csproj.CoreCompileInputs.cache
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.dll
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\refint\ProjetoProduto.dll
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.pdb
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.genruntimeconfig.cache
+D:\lucas\Curso C#\csharp\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ref\ProjetoProduto.dll
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.exe
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.deps.json
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.runtimeconfig.json
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.dll
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.pdb
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.csproj.AssemblyReference.cache
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.AssemblyInfoInputs.cache
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.AssemblyInfo.cs
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.csproj.CoreCompileInputs.cache
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.dll
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\refint\ProjetoProduto.dll
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.pdb
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.genruntimeconfig.cache
+D:\lucas\Curso C#\csharp\6 - Classes Atributos e metodos\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ref\ProjetoProduto.dll
