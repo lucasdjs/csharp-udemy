@@ -1,0 +1,21 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\bin\Debug\net6.0\appsettings.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\bin\Debug\net6.0\Curso .NET.exe
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\bin\Debug\net6.0\Curso .NET.deps.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\bin\Debug\net6.0\Curso .NET.runtimeconfig.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\bin\Debug\net6.0\Curso .NET.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\bin\Debug\net6.0\Curso .NET.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\Curso .NET.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\Curso .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\Curso .NET.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\Curso .NET.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\Curso .NET.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\Curso .NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\scopedcss\bundle\Curso .NET.styles.css
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\Curso .NET.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\refint\Curso .NET.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\Curso .NET.pdb
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\Curso .NET.genruntimeconfig.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\Curso .NET\obj\Debug\net6.0\ref\Curso .NET.dll

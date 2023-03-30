@@ -1,0 +1,7 @@
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\IWantApp\obj\Debug\net6.0\IWantApp.csproj.AssemblyReference.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\IWantApp\obj\Debug\net6.0\IWantApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\IWantApp\obj\Debug\net6.0\IWantApp.AssemblyInfoInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\IWantApp\obj\Debug\net6.0\IWantApp.AssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\IWantApp\obj\Debug\net6.0\IWantApp.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\IWantApp\obj\Debug\net6.0\IWantApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\Área de Trabalho\Udemys\IWantApp\obj\Debug\net6.0\IWantApp.MvcApplicationPartsAssemblyInfo.cache

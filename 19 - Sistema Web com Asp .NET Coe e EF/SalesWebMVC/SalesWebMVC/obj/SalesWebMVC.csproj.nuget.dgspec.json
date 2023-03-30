@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Udemys\\19 - Sistema Web com Asp .NET Coe e EF\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
+    "C:\\Users\\lucas.jesus\\OneDrive - NDD.Tech\\Área de Trabalho\\Udemys\\19 - Sistema Web com Asp .NET Coe e EF\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Udemys\\19 - Sistema Web com Asp .NET Coe e EF\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
+    "C:\\Users\\lucas.jesus\\OneDrive - NDD.Tech\\Área de Trabalho\\Udemys\\19 - Sistema Web com Asp .NET Coe e EF\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Udemys\\19 - Sistema Web com Asp .NET Coe e EF\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\lucas.jesus\\OneDrive - NDD.Tech\\Área de Trabalho\\Udemys\\19 - Sistema Web com Asp .NET Coe e EF\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
         "projectName": "SalesWebMVC",
-        "projectPath": "C:\\Udemys\\19 - Sistema Web com Asp .NET Coe e EF\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectPath": "C:\\Users\\lucas.jesus\\OneDrive - NDD.Tech\\Área de Trabalho\\Udemys\\19 - Sistema Web com Asp .NET Coe e EF\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Udemys\\19 - Sistema Web com Asp .NET Coe e EF\\SalesWebMVC\\SalesWebMVC\\obj\\",
+        "outputPath": "C:\\Users\\lucas.jesus\\OneDrive - NDD.Tech\\Área de Trabalho\\Udemys\\19 - Sistema Web com Asp .NET Coe e EF\\SalesWebMVC\\SalesWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -111,7 +111,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
