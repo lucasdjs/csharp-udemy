@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FlBaRHfFZMrChoJ3HjNKXO5rySyjtzzM3kXXE2zByp32GvRU7sdEzRh8GyAY5gOXMFk0Zp80OZeErlEhgUD7cQ==",
+  "dgSpecHash": "tn7XJ/hZcljL42h9hgR+MBqqCBCklyfAyC2o50zylJvqp7OVNFFZvvYFT1HVnIzvqayBWgomTD/L0oeDl43vJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.jesus\\OneDrive - NDD.Tech\\Área de Trabalho\\Udemys\\IWantApp\\IWantApp.csproj",
+  "projectFilePath": "C:\\Users\\lucas.jesus\\OneDrive - NDD.Tech\\GIT\\csharp-udemy\\IWantApp\\IWantApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.jesus\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\lucas.jesus\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

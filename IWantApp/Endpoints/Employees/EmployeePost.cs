@@ -1,5 +1,5 @@
-﻿using IWantApp.Domain.Products;
-using IWantApp.Infra.Data;
+﻿using Microsoft.AspNetCore.Identity;
+using System.Security.Claims;
 
 namespace IWantApp.Endpoints.Employees;
 
@@ -9,19 +9,30 @@ public class EmployeePost
     public static string[] Methods => new string[] { HttpMethod.Post.ToString() };
     public static Delegate Handle => Action;
 
-    public static IResult Action(CategoryDTO categoryDTO, ApplicationDbContext context)
+    public static IResult Action(EmployeeDTO employeeDTO, UserManager<IdentityUser> userManager)
     {
-        var category = new Category(categoryDTO.Name, "teste", "teste");
+        var user = new IdentityUser { UserName = employeeDTO.email, Email = employeeDTO.email };
 
-        if (!category.IsValid)
+        var result = userManager.CreateAsync(user, employeeDTO.password).Result;
+
+        if (!result.Succeeded)
         {
-            return Results.ValidationProblem(category.Notifications.ConvertToProblemDetails());
+            return Results.ValidationProblem(result.Errors.ConvertToProblemDetails());
         }
 
+        var userClaims = new List<Claim> { 
+            new Claim("Name", employeeDTO.name),
+            new Claim("EmployeeCode", employeeDTO.EmployeeCode)
+        };
 
-        context.Categories.Add(category);
-        context.SaveChanges();
+        var claimResult = userManager.AddClaimsAsync(user, userClaims).Result;
+     
 
-        return Results.Created($"/categories/{category.Id}", category.Id);
+        if (!claimResult.Succeeded)
+        {
+            return Results.BadRequest(result.Errors.First());
+        }
+
+        return Results.Created($"/employees/{user.Id}", user.Id);
     }
 }
