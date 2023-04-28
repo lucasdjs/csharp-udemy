@@ -174,3 +174,4 @@ C:\Users\lucas.jesus\OneDrive - NDD.Tech\GIT\csharp-udemy\IWantApp\obj\Debug\net
 C:\Users\lucas.jesus\OneDrive - NDD.Tech\GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.pdb
 C:\Users\lucas.jesus\OneDrive - NDD.Tech\GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.genruntimeconfig.cache
 C:\Users\lucas.jesus\OneDrive - NDD.Tech\GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\ref\IWantApp.dll
+C:\Users\lucas.jesus\OneDrive - NDD.Tech\GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Dapper.dll
