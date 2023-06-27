@@ -1,6 +1,4 @@
-﻿using IWantApp.Infra.Data;
-
-namespace IWantApp.Endpoints.Employees;
+﻿namespace IWantApp.Endpoints.Employees;
 
 public class EmployeeGetAll
 {
@@ -8,13 +6,11 @@ public class EmployeeGetAll
     public static string[] Methods => new string[] { HttpMethod.Get.ToString() };
     public static Delegate Handle => Action;
 
-    public static IResult Action(int? page, int? rows, QueryAllUsersWithClaimName query)
+    [Authorize(Policy = "Employee005Policy")]
+    public static async Task<IResult> Action(int? page, int? rows, QueryAllUsersWithClaimName query)
     {
-        if (page == null || rows == null || rows > 10)
-        {
-            return Results.BadRequest("Deve ser informado a paginação corretamente");
-        }
+        var result = await query.Execute(page.Value, rows.Value);
 
-        return Results.Ok(query.Execute(page.Value, rows.Value));
+        return Results.Ok(result);
     }
 }

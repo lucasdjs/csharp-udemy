@@ -1,5 +1,4 @@
-﻿using IWantApp.Domain.Products;
-using IWantApp.Infra.Data;
+﻿
 
 namespace IWantApp.Endpoints.Categories;
 
@@ -12,7 +11,7 @@ public class CategoryGetAll
     public static IResult Action(ApplicationDbContext context)
     {
         var categories = context.Categories.ToList();
-        var response = categories.Select(x => new CategoryResponse {Id = x.Id, Name = x.Name, Active = x.Active });
+        var response = categories.Select(c => new CategoryResponse(c.Id, c.Name, c.Active));
 
         return Results.Ok(response);
     }

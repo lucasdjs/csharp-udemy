@@ -1,7 +1,4 @@
-﻿using IWantApp.Domain.Products;
-using IWantApp.Infra.Data;
-
-namespace IWantApp.Endpoints.Categories;
+﻿namespace IWantApp.Endpoints.Categories;
 
 public class CategoryPost
 {
@@ -9,9 +6,11 @@ public class CategoryPost
     public static string[] Methods => new string[] { HttpMethod.Post.ToString() };
     public static Delegate Handle => Action;
 
-    public static IResult Action(CategoryDTO categoryDTO, ApplicationDbContext context)
+    [Authorize(Policy = "EmployeePolicy")]
+    public static async Task<IResult> Action(CategoryDTO categoryDTO, HttpContext http, ApplicationDbContext context)
     {
-        var category = new Category(categoryDTO.Name, "teste", "teste");
+        var userId = http.User.Claims.First(x => x.Type == ClaimTypes.NameIdentifier).Value;
+        var category = new Category(categoryDTO.Name, userId, userId);
 
         if (!category.IsValid)
         {
@@ -19,8 +18,8 @@ public class CategoryPost
         }
 
 
-        context.Categories.Add(category);
-        context.SaveChanges();
+        await context.Categories.AddAsync(category);
+        await context.SaveChangesAsync();
 
         return Results.Created($"/categories/{category.Id}", category.Id);
     }

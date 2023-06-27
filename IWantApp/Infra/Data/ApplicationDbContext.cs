@@ -1,10 +1,4 @@
-﻿using Flunt.Notifications;
-using IWantApp.Domain.Products;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore;
-
-namespace IWantApp.Infra.Data;
+﻿namespace IWantApp.Infra.Data;
 
 public class ApplicationDbContext : IdentityDbContext<IdentityUser>
 {
@@ -22,13 +16,18 @@ public class ApplicationDbContext : IdentityDbContext<IdentityUser>
              .IsRequired();
 
         builder.Entity<Product>()
-                 .Property(p => p.Description)
-                 .HasMaxLength(255);
+               .Property(p => p.Price)
+                .HasColumnType("decimal(10,2)")
+                .IsRequired();
+
+        builder.Entity<Product>()
+         .Property(p => p.Description)
+         .HasMaxLength(255);
 
         builder.Entity<Category>()
-                .Property(c => c.Name)
-                .IsRequired()
-                .HasMaxLength(20);
+        .Property(c => c.Name)
+        .IsRequired()
+        .HasMaxLength(20);
     }
 
     protected override void ConfigureConventions(ModelConfigurationBuilder configuration)

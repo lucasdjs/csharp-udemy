@@ -175,8 +175,15 @@ C:\Users\lucas.jesus\OneDrive - NDD.Tech\GIT\csharp-udemy\IWantApp\obj\Debug\net
 C:\Users\lucas.jesus\OneDrive - NDD.Tech\GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.genruntimeconfig.cache
 C:\Users\lucas.jesus\OneDrive - NDD.Tech\GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\ref\IWantApp.dll
 C:\Users\lucas.jesus\OneDrive - NDD.Tech\GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Dapper.dll
-A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\appsettings.json
+A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.csproj.AssemblyReference.cache
+A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.AssemblyInfoInputs.cache
+A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.AssemblyInfo.cs
+A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.csproj.CoreCompileInputs.cache
+A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.MvcApplicationPartsAssemblyInfo.cs
+A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.MvcApplicationPartsAssemblyInfo.cache
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\appsettings.Development.json
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\appsettings.json
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\IWantApp.exe
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\IWantApp.deps.json
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\IWantApp.runtimeconfig.json
@@ -187,6 +194,7 @@ A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Azure.Identity.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Dapper.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Flunt.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Humanizer.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -199,10 +207,14 @@ A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.EntityFramework
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
@@ -221,6 +233,17 @@ A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Serilog.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Serilog.AspNetCore.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Serilog.Sinks.File.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -241,20 +264,13 @@ A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\win-arm\native\M
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.csproj.AssemblyReference.cache
-A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.GeneratedMSBuildEditorConfig.editorconfig
-A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.AssemblyInfoInputs.cache
-A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.AssemblyInfo.cs
-A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.csproj.CoreCompileInputs.cache
-A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.MvcApplicationPartsAssemblyInfo.cs
-A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\IWantApp.MvcApplicationPartsAssemblyInfo.cache
+A:\Projetos GIT\csharp-udemy\IWantApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\staticwebassets\msbuild.IWantApp.Microsoft.AspNetCore.StaticWebAssets.props
 A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\staticwebassets\msbuild.build.IWantApp.props
 A:\Projetos GIT\csharp-udemy\IWantApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IWantApp.props
